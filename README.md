@@ -1,7 +1,5 @@
 # customer-churn-prediction
 
-# customer-churn-prediction
-
 # 📊 Customer Churn Prediction Using Machine Learning
 
 This project aims to predict whether a customer will churn (leave a service) based on their demographics and usage behavior. The project uses a supervised machine learning approach with the **Random Forest Classifier** to build the prediction model.
